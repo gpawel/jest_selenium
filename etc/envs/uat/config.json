@@ -1,0 +1,8 @@
+{
+    "baseUrl":"http://institutionalclient.sterbc.com",
+    "browser":"opera",
+    "userName":"client@dummy.com",
+    "password":"Password@111",
+    "uat":"uat environment",
+    "timeOut":10000
+}

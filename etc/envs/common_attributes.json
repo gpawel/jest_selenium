@@ -1,0 +1,7 @@
+{
+    "baseUrl":"http://yahoo.com",
+    "browser":"Chrome",
+    "userName":"common user",
+    "password":"common password",
+    "commonfile":"common config file"
+}
